@@ -33,3 +33,7 @@ the following command will pull content from a remote repository branch that you
 ```git
 git pull origin main
 ```
+the following command will display the current local branches available
+```git
+git branch
+```
